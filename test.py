@@ -11,4 +11,4 @@ def login(user, password):
         return False
 login(user="Vishal", password="PASS@!23")
 
-SECRET_KEY = '.v2QPKHl7LcdVYsjaR4LgQiZ1zw3MAnMyiondXC63'
+SECRET_KEY = '4e&6bz+(5&cg^_!05r(&7_#dghg_smrojq(yk)xa^bwg7j)^*j'
